@@ -2,9 +2,9 @@
 👑 I am Web Developer <br>
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge <br>
-📫 How to reach me ? rixetbd@gmail.com <br>
+📫 How to reach me ? mdrabiulislam.r12@gmail.com <br>
 
-![Profile views](https://gpvc.arturio.dev/rixetbd)  
+![Profile views](https://gpvc.arturio.dev/rabiulislamr12)  
 
 I’m a Full Stack Developer who is passionate about making error-free websites with Laravel and React.js Framework. A self-taught fast-learner full-stack developer from Dhaka. I have a passion for learning and sharing my knowledge with others as publicly as possible. Now I'm a working on Bangladesh Outsourcing Company (BDOSC) as a Full-Stack Web Developer. I love to work with new technologies and developing web applications like Laravel Framework. And love to solve real-world problems. 
 
@@ -51,19 +51,19 @@ I like to explore new technologies and develop software solutions and quick hack
 
 # Github Statistics
 
-![Visitor](https://komarev.com/ghpvc/?username=rixetbdz&color=blueviolet&style=flat-square) 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/rixetbd)
+![Visitor](https://komarev.com/ghpvc/?username=rabiulislamr12z&color=blueviolet&style=flat-square) 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/rabiulislamr12)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
-![Last-commit](https://img.shields.io/github/last-commit/rixetbd/rixetbd?style=flat-square&color=blueviolet)
+![Last-commit](https://img.shields.io/github/last-commit/rabiulislamr12/rabiulislamr12?style=flat-square&color=blueviolet)
 
 
 <div>
-  <a href="https://github.com/rixetbd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rixetbd&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixetbd&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/rabiulislamr12">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabiulislamr12&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiulislamr12&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=rixetbd&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=rabiulislamr12&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <img src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
 
